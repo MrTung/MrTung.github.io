@@ -1,0 +1,18 @@
+{
+  "code": "0001",
+  "data": {
+    "username": "张三",
+    "role": "产品经理",
+    "level": 2,
+    "payment": 10,
+    "shipping": 10,
+    "receiving": 5,
+    "evaluation": 0,
+    "matched": 0,
+    "offer": 0,
+    "audit": 0,
+    "balance": 1000.35,
+    "consumption": 355.26,
+    "points": 10
+  }
+}
